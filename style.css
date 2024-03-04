@@ -1,0 +1,97 @@
+body {
+  width: 600px;
+  margin: auto;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  border: 1px solid purple;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-top: 50px;
+  padding-top: 25px;
+}
+
+.imgs {
+  width: 50px;
+}
+
+#imges {
+  text-align: center;
+}
+
+html {
+  background-image: url(images/background.jpg);
+  background-size: cover;
+}
+
+div {
+  background-color: purple;
+  color: white;
+  margin: auto;
+  text-align: center;
+  padding: 15px 30px;
+}
+
+#btn1 {
+  background-color: green;
+  color: white;
+  border: 1px solid white;
+  margin: auto;
+  font-size: 20px;
+  padding: 4px 13px;
+}
+
+#fake-img {
+  width: 400px;
+  padding-bottom: 20px;
+}
+
+#Span2 {
+  text-decoration: underline;
+  text-underline-offset: 15px;
+}
+
+table {
+  padding-left: 125px;
+  text-align: center;
+}
+
+#Span1 {
+  padding-top: 15px;
+}
+
+#pswrd:hover {
+  text-decoration: underline;
+  color: yellow;
+  transition: all 1s;
+}
+
+#pswrd {
+  color: white;
+  text-decoration: none;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#btn11 {
+  padding-top: 10px;
+  text-align: center;
+  margin: auto;
+}
+
+#img1 {
+  padding: 0px 5px;
+}
+
+#img2 {
+  padding: 0px 5px;
+}
+
+#img3 {
+  padding: 0px 5px;
+}
+
+#img4 {
+  padding: 0px 5px;
+}
